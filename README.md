@@ -10,8 +10,3 @@
 
 ## Let's Connect
 I am always open to collaboration and discussion on potential projects, research opportunities, or the latest trends in data science and machine learning. Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sonia-borsi-824998260/) 🚀.
-
-## Contributions and Feedback
-Your feedback and contributions are highly valued. Feel free to reach out or contribute to my repositories. 
-
-Thank you for visiting my profile! 🙏
