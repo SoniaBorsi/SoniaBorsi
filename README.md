@@ -1,6 +1,6 @@
 # Hi, I'm Sonia Borsi!
 
-**Data Science Student | Machine Learning Enthusiast | Big Data Aficionado**
+**Data Science Student | Machine Learning Wizard | Big Data Enthusiast**
 
 Welcome to my GitHub profile! I am currently pursuing a degree in Data Science, with a profound passion for Machine Learning, Artificial Intelligence, and Big Data technologies. My academic journey has provided me with a robust foundation in statistical analysis, data visualization, and predictive modeling. I thrive on analyzing complex datasets, uncovering hidden patterns, and developing intelligent models to address real-world challenges.
 
