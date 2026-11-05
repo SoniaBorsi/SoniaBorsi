@@ -1,3 +1,3 @@
 # Hi, I'm Sonia Borsi! 
 
-**Data Science Student at [University of Trento](https://www.unitn.it)**
+**Ph.D. Student in Information Engineering and Computer Science at [University of Trento](https://www.unitn.it) and Fondazione Bruno Kessler(https://rsde.fbk.eu/)**
